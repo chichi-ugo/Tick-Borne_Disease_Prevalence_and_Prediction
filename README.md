@@ -1,4 +1,4 @@
-# UNC_Analytics_Bootcamp_Capstone_2022
+# Tick-Borne Disease Prevalence and Prediction
 ## Exploratory analysis of tick-borne illness in dogs
 
 ### Purpose
