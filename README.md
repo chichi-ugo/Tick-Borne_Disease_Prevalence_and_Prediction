@@ -159,14 +159,14 @@ Another thing that we explored was to integrate our ML model calculations into t
 
 ### Visualization
 #### Density Map of Established Tick Records
-![Density Map](https://github.com/jobloom79/UNC_Analytics_Bootcamp_Capstone_2022/blob/customer_acceptance_test/Visualizations/texas_map.PNG)
+![Density Map](https://github.com/chichi-ugo/Tick-Borne_Disease_Prevalence_and_Prediction/blob/main/Visualizations/density_map.PNG?raw=true)
 - A map was created to show the categories of tick records per county in the United States. 
 
 #### Tickborne dashboard
 
 [Tableau Dashboard](https://public.tableau.com/app/profile/joseph.bloomfield/viz/Tableaudashboard_16673515630850/TickDashboard#1)
 
-![Dashboard screenshot](https://github.com/jobloom79/UNC_Analytics_Bootcamp_Capstone_2022/blob/customer_acceptance_test/Visualizations/Tickborne%20Dashboard.PNG)
+![Dashboard screenshot](https://github.com/chichi-ugo/Tick-Borne_Disease_Prevalence_and_Prediction/blob/main/Visualizations/Tickborne%20Dashboard.PNG?raw=true)
 
 - We pulled from our database the tick-borne illnesses against the 'FIPSCODE'(Federal Information Processing Standard), which is a unique id by geographical area and 'Animal ID' from each county. Then, a density map was created based on the categories of "Established", "No Record", and "Reported". 
 
@@ -175,9 +175,6 @@ Another thing that we explored was to integrate our ML model calculations into t
 ### Slides
 
 Presentation is presented with [Google Slides](https://docs.google.com/presentation/d/1Pb45MhAy0BsfN_zfLDYegSP01tUUemsadI_XG5e-pjA/edit?usp=sharing).
-
-### Video rehearsal
-[Presentation Practice](https://drive.google.com/file/d/1I3mpNoKj9TJvKvRpb3Iizn40qYGfjV2-/view?usp=share_link)
 
 ### Individual Branches:
 - Joe B. - JB_dev;
